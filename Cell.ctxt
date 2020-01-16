@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Cell
+comment1.params=col\ row
+comment1.target=Cell(int,\ int)
+comment2.params=
+comment2.target=void\ Neighbors()
+comment3.params=
+comment3.target=void\ Edges()
+comment4.params=
+comment4.target=void\ Corners()
+comment5.params=
+comment5.target=void\ Knights()
+comment6.params=
+comment6.target=void\ Reveal()
+comment7.params=
+comment7.target=void\ Flag()
+numComments=8
